@@ -1,5 +1,7 @@
 # executable
-main
+
+# Logs
+*.log
 
 # Prerequisites
 *.d
