@@ -1,2 +1,3 @@
 # cpp
-toying around with c++
+
+Examples of C++ things from scratch.
