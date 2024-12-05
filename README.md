@@ -33,3 +33,7 @@ Useful for inspecting the C++ with objdump and readelf.
 ### sections
 
 Prints the sections in program memory.
+
+### templates_vs_inheritance
+
+Shows alternative ways to do polymorphism. Pros/cons.
